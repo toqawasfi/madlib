@@ -8,8 +8,8 @@ merge: to merge the user inputes
 video_game: to connect every thing as a vedio game
 
 '''
-#all is ggod
-#hi
+
+
 
 def read_template(path): # NotFoundErrorHandler
     try:
