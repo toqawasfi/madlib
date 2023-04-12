@@ -20,7 +20,8 @@
 
 #### Tests
 
-I've been testing my project and everything is working fine
-
+I've been testing my project and everything is working fine,you can test my code by the follwing:
+- install pytest lib
+- run pytest inside of your terminal
 > # pull requests Link
-[pull requests]()# madlib
+[pull requests](https://github.com/toqawasfi/madlib/pull/1)
